@@ -1,0 +1,17 @@
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\TestFR.exe
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp3.0\TestFR.AssemblyInfoInputs.cache
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp3.0\TestFR.AssemblyInfo.cs
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp3.0\TestFR.csprojAssemblyReference.cache
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\TestFR.deps.json
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\TestFR.runtimeconfig.json
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\TestFR.runtimeconfig.dev.json
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\TestFR.dll
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\TestFR.pdb
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\Azure.AI.FormRecognizer.dll
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\Azure.Core.dll
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\Shared.dll
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp3.0\Shared.pdb
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp3.0\TestFR.csproj.CopyComplete
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp3.0\TestFR.dll
+C:\Git\FormRecognizer\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp3.0\TestFR.pdb
