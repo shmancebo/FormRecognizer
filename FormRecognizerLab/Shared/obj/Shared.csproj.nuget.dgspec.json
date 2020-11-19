@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Integration - Forms\\FormRecognizerLab\\Shared\\Shared.csproj": {}
+    "C:\\Git\\Integration2020-forms\\FormRecognizerLab\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Integration - Forms\\FormRecognizerLab\\Shared\\Shared.csproj": {
+    "C:\\Git\\Integration2020-forms\\FormRecognizerLab\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Integration - Forms\\FormRecognizerLab\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Git\\Integration2020-forms\\FormRecognizerLab\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Git\\Integration - Forms\\FormRecognizerLab\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Git\\Integration2020-forms\\FormRecognizerLab\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\shernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Integration - Forms\\FormRecognizerLab\\Shared\\obj\\",
+        "outputPath": "C:\\Git\\Integration2020-forms\\FormRecognizerLab\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp2.0": {
             "projectReferences": {}
           }
         },
@@ -39,11 +39,17 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp2.0": {
           "dependencies": {
             "Azure.AI.FormRecognizer": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -56,11 +62,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }

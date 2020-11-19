@@ -6,3 +6,10 @@ C:\Git\FormRecognizer\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.As
 C:\Git\FormRecognizer\FormRecognizerLab\Shared\bin\Debug\netcoreapp3.0\Shared.pdb
 C:\Git\FormRecognizer\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.dll
 C:\Git\FormRecognizer\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.pdb
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\bin\Debug\netcoreapp3.0\Shared.deps.json
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\bin\Debug\netcoreapp3.0\Shared.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\bin\Debug\netcoreapp3.0\Shared.pdb
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.AssemblyInfoInputs.cache
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.AssemblyInfo.cs
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp3.0\Shared.pdb

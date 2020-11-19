@@ -17,11 +17,14 @@ namespace FormRecognizerLab.Functions
 {
     public static class CustomFormFunction
     {
-        [FunctionName("CustomForm")]
+        [FunctionName("Analyze")]
         public static async Task<IActionResult> Run(
-            [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = "Analyze/{model}/{fileName}")] HttpRequest req,
-            ILogger log,string model, string fileName)
+            [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
+            ILogger log)
         {
+
+            string fileName = req.Query["fileName"];
+            string model = req.Query["model"];
             var container = Environment.GetEnvironmentVariable("BlobUrl");
             var sass = Environment.GetEnvironmentVariable("Sassblob");
             var file = await GetDocumentFromStorage(fileName, container, sass);
