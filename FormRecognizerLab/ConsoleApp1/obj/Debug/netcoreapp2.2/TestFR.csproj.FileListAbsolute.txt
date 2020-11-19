@@ -1,0 +1,14 @@
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\TestFR.deps.json
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\TestFR.runtimeconfig.json
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\TestFR.runtimeconfig.dev.json
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\TestFR.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\TestFR.pdb
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\Shared.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\bin\Debug\netcoreapp2.2\Shared.pdb
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.csprojAssemblyReference.cache
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.csproj.CoreCompileInputs.cache
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.AssemblyInfoInputs.cache
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.AssemblyInfo.cs
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.csproj.CopyComplete
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\ConsoleApp1\obj\Debug\netcoreapp2.2\TestFR.pdb

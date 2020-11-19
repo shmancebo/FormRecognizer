@@ -50,6 +50,8 @@ namespace ConsoleTest
                 var receiptContent = await frClient.AnalyzeReceiptFromStream(receipt);
                 PrintReceipt(receiptContent);
             }
+
+            Console.ReadLine();
         }
 
         public static void PrintForm(FormPageCollection formPages)

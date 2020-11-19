@@ -1,0 +1,8 @@
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\bin\Debug\netcoreapp2.2\Shared.deps.json
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\bin\Debug\netcoreapp2.2\Shared.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\bin\Debug\netcoreapp2.2\Shared.pdb
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.2\Shared.csproj.CoreCompileInputs.cache
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.2\Shared.AssemblyInfoInputs.cache
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.2\Shared.AssemblyInfo.cs
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.2\Shared.dll
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.2\Shared.pdb
