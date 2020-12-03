@@ -5,3 +5,4 @@ C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.0\Sh
 C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.0\Shared.AssemblyInfo.cs
 C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.0\Shared.dll
 C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.0\Shared.pdb
+C:\Git\Integration2020-forms\FormRecognizerLab\Shared\obj\Debug\netcoreapp2.0\Shared.csprojAssemblyReference.cache

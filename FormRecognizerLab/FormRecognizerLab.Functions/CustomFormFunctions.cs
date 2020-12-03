@@ -42,9 +42,7 @@ namespace FormRecognizerLab.Functions
 
         private static async Task<byte[]> GetDocumentFromStorage(string fileName,string containerUri,string sasToken)
         {
-            // ******************************************
-            // TODO #4: Insert code in this block to enable the Function App to retrieve configuration values from Appplication Settings.
-            // ******************************************
+           
             var uri = $"{containerUri}/{fileName}{sasToken}";
             using (var client = new HttpClient())
             {
